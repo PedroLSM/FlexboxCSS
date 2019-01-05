@@ -1,0 +1,22 @@
+html, body, .parent{
+    height: 98%;
+}
+
+html{
+    background-color: aquamarine;
+}
+
+.parent{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.email{
+    margin: 5px;
+}
+
+.password{
+    margin: 5px;
+}
